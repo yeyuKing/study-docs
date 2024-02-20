@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[22],{302:function(t,n,e){"use strict";e.r(n);var s={name:"DemoComponent",props:{title:{type:String,default:()=>""}}},i=e(14),o=Object(i.a)(s,(function(){return(0,this._self._c)("h1",[this._v("this is demo component props is "+this._s(this.title))])}),[],!1,null,null,null);n.default=o.exports}}]);
